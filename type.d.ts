@@ -27,5 +27,5 @@ type PostParams = {
   data: any;
 };
 type GetParams = {
-  params?: string;
+  params?: Store;
 };
